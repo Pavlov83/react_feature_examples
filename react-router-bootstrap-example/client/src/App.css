@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+ 
+}
+
+input,button{
+
+  width:200px;
+  height: 30px;
+  font-size:20px;
+  margin:5px;
+}
+
+.tutorial{
+  width: 500px;
+  height: 250px;
+  margin:10px;
+  border: black 2px;
+}
+
+nav{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: green;
+  color: white;
+}
+
+.nav-links{
+  width: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style:none;
+
+  
+
+}
